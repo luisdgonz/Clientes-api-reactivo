@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "3220c15a-2502-4a8f-a364-3fce2834529e",
+		"name": "ClientesReactivoWebServices",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26534073"
+	},
+	"item": [
+		{
+			"name": "CrearClienteReactivo",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "CargarClientesReactivo",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
